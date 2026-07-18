@@ -1,0 +1,6 @@
+{
+  "name": "Banagar",
+  "description": "سیستم عامل هوش مصنوعی بناگر برای مدیریت پروژه‌های ساختمانی و صنعتی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
